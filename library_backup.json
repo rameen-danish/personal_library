@@ -1,0 +1,16 @@
+[
+    {
+        "title": "rameen",
+        "author": "danish",
+        "year": 1000,
+        "genre": "love",
+        "read": false
+    },
+    {
+        "title": "abeeha",
+        "author": "fatima",
+        "year": 1000,
+        "genre": "chid",
+        "read": false
+    }
+]
